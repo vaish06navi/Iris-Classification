@@ -5,7 +5,7 @@ This Project is thorugh application of machine learning with python programming.
 **Techniques -**
 - Grid Search CV
 - K Fold Cross Validation
-- 
+
 **Algorithm used for predicting and get accuracy are -**
 - SVM
 - Logistic Regression
